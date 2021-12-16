@@ -1,2 +1,2 @@
-# Etho-NFT-Marketplace-Server
-Server for the client
+# Artem-Server
+Server for the artem client
